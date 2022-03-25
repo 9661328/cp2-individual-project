@@ -34,4 +34,8 @@ Year two programming concepts used:
 
 ## 🗒️ To-do: 
 
-Graphic/logo
++ Create flowchart, class diagram.
++ Graphic/logo
++ Finish the project
++ Rename the project
++ Add a description
