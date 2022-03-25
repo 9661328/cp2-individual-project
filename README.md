@@ -1,16 +1,17 @@
 # cp2-individual-project
 
-## 👨‍💻 Contributers
-
-
 ## 📝 Description
 
-e
+A description goes here.
 
-> Year two programming concepts used:
-> 
+``` 
+Year two programming concepts used:
 
-
+> GUI controls
+> For-each loop
+> Ternary statement
+> Collections (ArrayList, JSONArray, Set)
+```
 
 ## 📚 Documentation
 
