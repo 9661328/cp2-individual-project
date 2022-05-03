@@ -7,9 +7,11 @@ A description goes here.
 ``` 
 Year two programming concepts used:
 
-> GUI controls
-> For-each loop
+> GUI controls - Processing and some Java
+> Enhanced for loop
 > Ternary statement
+> Overloading
+> IO and Exception Handling
 > Collections (ArrayList, JSONArray, Set)
 ```
 
