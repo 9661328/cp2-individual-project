@@ -34,10 +34,11 @@ Year two programming concepts used:
 
 ## 📸 Graphics
 
+/screenshots here
+
 ## 🗒️ To-do: 
 
-+ Create flowchart, class diagram.
-+ Graphic/logo
-+ Finish the project
-+ Rename the project
-+ Add a description
++ Create flowchart and class diagram.
++ Fix the documentation for the repository.
++ Upload screenshots or a video
++ Add repository to a portfolio.
