@@ -20,23 +20,32 @@ Year two programming concepts used:
 ![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
 ```mermaid
- classDiagram
-      Animal <|-- Duck
-      Animal <|-- Fish
-      Animal <|-- Zebra
-      Animal : +int age
-      Animal : +String gender
-      Animal: +isMammal()
-      Animal: +mate()
-      class Duck{
-          +String beakColor
-          +swim()
-          +quack()
-      }
-      class Fish{
-          -int sizeInFeet
-          -canEat()
-      }
+classDiagram
+class ElementInfoFrame{
++ serialVersionUID: long
++ components: ArrayList<ElementComponent>
++ elementInfo: LinkedHashMap<String, Object>
++ element: ElementComponent
++ panel: JPanel
++ textArea: JTextArea
++ scrollPane: JScrollPane
++ urlButton: JButton
+        
++ setLookAndFeel(): void
++ createComponents(): void
++ configureFrame(): void
++ windowDeactived(WindowEvent): void
++ windowOpened(WindowEvent): void
++ windowClosing(WindowEvent): void
++ windowClosed(WindowEvent): void
++ windowIconified(WindowEvent): void
++ windowDeiconified(WindowEvent): void
++ windowActivated(WindowEvent): void
+}
+
+class SortFrame{
++ hello
+}
       class Zebra{
           +bool is_wild
           +run()
