@@ -20,39 +20,55 @@ Year two programming concepts used:
 ![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
 ```mermaid
+
 classDiagram
+
 class ElementInfoFrame{
-+ serialVersionUID: long
-+ components: ArrayList<ElementComponent>
-+ elementInfo: LinkedHashMap<String, Object>
-+ element: ElementComponent
-+ panel: JPanel
-+ textArea: JTextArea
-+ scrollPane: JScrollPane
-+ urlButton: JButton
-        
-+ setLookAndFeel(): void
-+ createComponents(): void
-+ configureFrame(): void
-+ windowDeactived(WindowEvent): void
-+ windowOpened(WindowEvent): void
-+ windowClosing(WindowEvent): void
-+ windowClosed(WindowEvent): void
-+ windowIconified(WindowEvent): void
-+ windowDeiconified(WindowEvent): void
-+ windowActivated(WindowEvent): void
+-serialVersionUID: long
+-components: ArrayList~ElementComponent~
+-elementInfo: LinkedHashMap~String, Object~
+-element: ElementComponent
+-panel: JPanel
+-textArea: JTextArea
+-scrollPane: JScrollPane
+-urlButton: JButton
+ 
+-setLookAndFeel() void
+-createComponents() void
+-configureFrame() void
++windowDeactived(WindowEvent) void
++windowOpened(WindowEvent) void
++windowClosing(WindowEvent) void
++windowClosed(WindowEvent) void
++windowIconified(WindowEvent) void
++windowDeiconified(WindowEvent) void
++windowActivated(WindowEvent) void
 }
 
 class SortFrame{
-+ hello
+-serialVersionUID: long
++COLUMN_NAMES: String[]
++SORT_OPTIONS: String[]
+-elements: 
+-table: JTable
+-scrollPane: JScrollPane
+-optionMenu: JComboBox~String~
+-enterButton: JButton
+
++SortFrame(ArrayList~LinkedHashMap~)
+-setLookAndFeel() void
+-createComponents() void
+-configureFrame() void
++windowDeactived(WindowEvent) void
++windowOpened(WindowEvent) void
++windowClosing(WindowEvent) void
++windowClosed(WindowEvent) void
++windowIconified(WindowEvent) void
++windowDeiconified(WindowEvent) void
++windowActivated(WindowEvent) void
 }
-      class Zebra{
-          +bool is_wild
-          +run()
-      }
 ```
 
-https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5
 
 ![GUI mockups]()
 ![Video of final running project]
