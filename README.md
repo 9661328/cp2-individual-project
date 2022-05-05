@@ -17,15 +17,14 @@ Year two programming concepts used:
 
 ## 📚 Documentation
 
-![Flowchart](https://lucid.app/documents/view/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
+![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
 https://lucid.app/documents/view/4d38c01f-8d51-452f-9360-8c7e26fc09b5
 
 
-![F](<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5" id="wrxd6hk4.MZ6"></iframe></div>)
+![F](<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px";src="https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5" id="wrxd6hk4.MZ6"></iframe></div>)
 
 ![GUI mockups]()
-
 ![Video of final running project]
 [![Watch the video]()
 
