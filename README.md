@@ -21,6 +21,9 @@ Year two programming concepts used:
 
 (https://lucid.app/publicSegments/view/9db773ab-90ec-4542-96d2-b67196006d2f)
 
+
+![F](<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px" src="https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5" id="wrxd6hk4.MZ6"></iframe></div>)
+
 ![GUI mockups]()
 
 ![Video of final running project]
