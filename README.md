@@ -117,6 +117,25 @@ class ElementComponent{
 +inBounds() boolean
 }
 
+class PeriodicTable{
++fontNumber: PFont
++fontSymbol: PFont
++fontButton: PFont
+-iconImage: PImage
+-elementArray: JSONArray
+
++main() void
++settings() void
++setup() void
++draw() void
++mouseClicked() void
+-populateElementInfo() void
+-createElementComponents() void
+-createButtons() void
+-createInfoPanel(e: ElementComponent) void
+-createSortFrame() void
+}
+
 class Series{
 <<enumeration>>
 ALKALI_METAL
