@@ -20,6 +20,26 @@ Year two programming concepts used:
 ![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
 ```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
+
+flowchart TB
+subgraph src
+subgraph periodicTable.frames
+id1(SortFrame.java)
+id2(ElementInfoFrame.java)
+end
+subgraph periodicTable.source
+id3(Button.java)
+id4(Element.java)
+id5(ElementComponent.java)
+id6(PeriodicTable.java)
+id7(Series.java)
+end
+end
+```
+
+```mermaid
+%%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
 
 classDiagram
 
@@ -151,8 +171,13 @@ unknown
 
 -Series(isMetal: boolean, color: int[])
 }
-```
 
+Element<--Series
+ElementComponent<--Element
+PeriodicTable<--Button
+PeriodicTable<--SortFrame
+PeriodicTable<--ElementInfoFrame
+```
 
 ![GUI mockups]()
 ![Video of final running project]
