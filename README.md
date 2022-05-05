@@ -83,6 +83,22 @@ class Button{
 + getText() String
 + inBounds() boolean
 }
+
+class Series{
+<<enumeration>>
+ALKALI_METAL
+ALKALINE_EARTH_METAL
+LANTHANOID
+ACTINOID
+TRANSITION_METAL
+POST_TRANSITION_METAL
+METALLOID
+REACTIVE_NONMETAL
+NOBLE_GAS
+unknown
+
+-Series(isMetal: boolean, color: int[])
+}
 ```
 
 
