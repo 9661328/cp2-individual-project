@@ -19,7 +19,7 @@ Year two programming concepts used:
 
 ![Flowchart]()
 
-![Class diagram](https://lucid.app/publicSegments/view/9db773ab-90ec-4542-96d2-b67196006d2f)
+(https://lucid.app/publicSegments/view/9db773ab-90ec-4542-96d2-b67196006d2f)
 
 ![GUI mockups]()
 
