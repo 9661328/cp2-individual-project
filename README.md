@@ -84,6 +84,39 @@ class Button{
 + inBounds() boolean
 }
 
+class Element{
+-series: Series
+-name: String
+-symbol: String
+-atomicNumber: int
+
++alphabeticSort(ArrayList~LinkedHashMap~) String[][]
++numericSort(ArrayList~LinkedHashMap~) String[][]
++getSeries() Series
++getName() String
++getSymbol(): String
++getAtomicNumber() int
+}
+
+class ElementComponent{
++RECT_SIZE: int
++CORNER_RADIUS: int
+-sketch: PApplet
+-element: Element
+-x: float
+-y: float
+-r: int
+-g: int
+-b: int
+
++render() void
++getElement() Element
+-changeColor(r: int, g: int, b: int)
++greyOut() void
++toOriginalColor() void
++inBounds() boolean
+}
+
 class Series{
 <<enumeration>>
 ALKALI_METAL
