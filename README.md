@@ -67,6 +67,22 @@ class SortFrame{
 +windowDeiconified(WindowEvent) void
 +windowActivated(WindowEvent) void
 }
+
+class Button{
+-sketch: PApplet
+-x: float
+-y: float
+-width: float
+-height: float
+-color: int[]
+-components: ArrayList~ElementComponent~
+
++Button(sketch: PApplet, text: String, x: float, y: float)
++Button(sketch: PApplet, components: ArrayList~ElementComponent~, x: float, y: float, series: Series)
++render() void
++ getText() String
++ inBounds() boolean
+}
 ```
 
 
