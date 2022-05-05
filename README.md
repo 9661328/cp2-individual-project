@@ -17,7 +17,7 @@ Year two programming concepts used:
 
 ## 📚 Documentation
 
-![Flowchart]()
+![Flowchart](https://lucid.app/documents/view/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
 https://lucid.app/documents/view/4d38c01f-8d51-452f-9360-8c7e26fc09b5
 
