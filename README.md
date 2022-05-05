@@ -2,7 +2,7 @@
 
 ## 📝 Description
 
-A description goes here.
+An interactive periodic table app that displays information about elements and sorts. Also comes with quiz games.
 
 ``` 
 Year two programming concepts used:
