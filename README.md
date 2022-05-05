@@ -19,10 +19,18 @@ Year two programming concepts used:
 
 ![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
 
-https://lucid.app/documents/view/4d38c01f-8d51-452f-9360-8c7e26fc09b5
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
+
+https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5
 
 
-![F](<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px";src="https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5" id="wrxd6hk4.MZ6"></iframe></div>)
+<div style="width: 640px; height: 480px; margin: 10px; position: relative;"><iframe allowfullscreen frameborder="0" style="width:640px; height:480px";src="https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5" id="wrxd6hk4.MZ6"></iframe></div>
 
 ![GUI mockups]()
 ![Video of final running project]
