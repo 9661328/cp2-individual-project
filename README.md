@@ -185,8 +185,9 @@ PeriodicTable<--ElementInfoFrame
 ## 🛠️ Installation Instructions
 
 1. Go to [PeriodicTable/dist/PeriodicTable.jar](https://github.com/9661328/cp2-individual-project/blob/main/PeriodicTable/dist/PeriodicTable.jar) and download the JAR file.
-2. Run the file by double clicking it.
+2. Run the file by double clicking it[^1].
 
+[^1]: On Mac, you may need to go to System Preferences > Security & Privacy and click "Open Anyway" if the file is being prevented from running.
 
 ## 📸 Graphics
 
