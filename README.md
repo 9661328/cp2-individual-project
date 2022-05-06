@@ -17,7 +17,7 @@ Year two programming concepts used:
 
 ## 📚 Documentation
 
-![Flowchart](https://lucid.app/documents/embedded/4d38c01f-8d51-452f-9360-8c7e26fc09b5)
+### Class diagram
 
 ```mermaid
 %%{init: {'theme': 'base', 'themeVariables': { 'primaryColor': '#ffcccc', 'edgeLabelBackground':'#ffffee', 'tertiaryColor': '#fff0f0'}}}%%
@@ -180,8 +180,7 @@ PeriodicTable<--ElementInfoFrame
 ```
 
 ![GUI mockups]()
-![Video of final running project]
-[![Watch the video]()
+![Possibly logic diagram]
 
 ## 🛠️ Installation Instructions
 
@@ -195,7 +194,7 @@ PeriodicTable<--ElementInfoFrame
 
 ## 🗒️ To-do: 
 
-+ Create flowchart and class diagram.
-+ Fix the documentation for the repository.
-+ Upload screenshots or a video
-+ Add repository to a portfolio.
+- [ ] Create flowchart and class diagram.
+- [ ] Fix the documentation for the repository.
+- [ ] Upload screenshots or a video
+- [ ] Add repository to a portfolio.
