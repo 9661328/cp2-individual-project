@@ -182,7 +182,7 @@ PeriodicTable<--ElementInfoFrame
 ![GUI mockups]()
 ![Possibly logic diagram]
 
-## 🛠️ Installation Instructions
+## 🛠️ Installation instructions
 
 1. Go to [PeriodicTable/dist/PeriodicTable.jar](https://github.com/9661328/cp2-individual-project/blob/main/PeriodicTable/dist/PeriodicTable.jar) and download the JAR file.
 2. Run the file by double clicking it[^1].
@@ -193,9 +193,10 @@ PeriodicTable<--ElementInfoFrame
 
 /screenshots here
 
-## 🗒️ To-do: 
+## 🗒️ To-do list: 
 
-- [ ] Create flowchart and class diagram.
+- [X] Create and set up the repository.
+- [ ] Create flowchart, class diagram, and other planning documents.
 - [ ] Fix the documentation for the repository.
 - [ ] Upload screenshots or a video
 - [ ] Add repository to a portfolio.
