@@ -196,9 +196,9 @@ PeriodicTable<--ElementInfoFrame
 ## 🗒️ To-do list: 
 
 - [X] Create and set up the repository with a README.
-- [ ] Create flowchart, class diagram, and other planning documents.
-- [ ] Fix the documentation for the repository.
+- [X] Create flowchart, class diagram, and other planning documents.
+- [X] Fix the documentation for the repository.
 - [ ] Upload screenshots or a video
-- [ ] Add repository to a portfolio (rename it first).
+- [X] Add repository to a portfolio (rename it first).
 - [ ] Finish coding the project.
-- [ ] Submit
+- [X] Submit
